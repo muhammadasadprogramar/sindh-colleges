@@ -19,7 +19,7 @@ const VisionaryLeaders = () => {
     {
       id: 3,
       name: "Professor Amjad",
-      position: "pecialist in English",
+      position: "Specialist in English",
       image: "/leader-3.jpg"
     }
   ];
